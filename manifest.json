@@ -1,0 +1,17 @@
+{
+  "name": "CNC NOTE — Challenge & Change(Chance) Note",
+  "short_name": "CNC NOTE",
+  "description": "도전을 기록하면 변화가 되고 기회가 됩니다",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a2b4a",
+  "theme_color": "#1a2b4a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%231a2b4a' rx='24'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='%237aba5d'>📋</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
